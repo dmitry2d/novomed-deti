@@ -1,0 +1,16 @@
+.navbar {
+    .nav-link {
+        // &:focus {
+        //     background-color: unset;
+        // }
+        &.show, 
+        &:focus, 
+        &:hover {
+            background-color: white;
+        }
+        
+    }
+    .dropdown-item {
+        font-weight: 600;
+    }
+}

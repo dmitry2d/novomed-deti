@@ -1,0 +1,12 @@
+.contact-form {
+    position: relative;
+    &:before {
+        position: absolute;
+        inset: 0;
+        content: "";
+        background: url('../assets/img/roman-grachev-dc9d8hyi5iq-unsplash-scaled-2-7230150.jpeg') center/cover;
+        opacity: 0.2;
+        z-index: -1
+    }
+    box-shadow: 0 1rem 1rem 1rem rgb(0 0 0 / 22%);
+}
