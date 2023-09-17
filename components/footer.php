@@ -4,7 +4,7 @@
         <div class="container-xl px-3">
             <div class="row">
                 
-                <div class="col-lg-4 py-3">
+                <div class="col-lg-4 py-3 order-lg-3">
                     <img src="./assets/img/logo.svg" width="160" alt="">
                     <div class="my-4">
                         <a href="" class="text-decoration-none">

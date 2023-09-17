@@ -4,7 +4,7 @@
     <section class="main-navigation">
         <nav class="navbar navbar-expand-md navbar-dark bg-primary p-md-0">
             <div class="container-xl p-0 my-0 px-3">
-                <a class="navbar-brand" href="#">
+                <a class="navbar-brand" href="./index.php">
                     <img src="./assets/img/logo.svg" alt="" width="160">
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">

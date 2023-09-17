@@ -7,5 +7,6 @@
 </head>
 <body>
     <h2><a href="text-page.php">Текстовая страница</a></h2>
+    <h2><a href="news.php">Новости\акции</a></h2>
 </body>
 </html>
