@@ -1,0 +1,11 @@
+
+.social-icon {
+    display: inline-flex;
+    .social-icon__wrapper {
+        width: 1em;
+        height: 1em;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+    }
+}

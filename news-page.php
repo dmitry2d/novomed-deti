@@ -23,11 +23,10 @@
                 <!-- Левая колонка -->
                 <div class="col-lg-7">
                         
-
                     <!-- Одна новость -->
                     <div class="row">
-                        <div class="col-6">
-                            <img src="./assets/img/1.png" alt="">
+                        <div class="col-6 pe-3">
+                            <img src="./assets/img/1.png" alt="" class="w-100">
                         </div>
                         <div class="col-6">
                         <h2>
@@ -52,8 +51,8 @@
 
                     <!-- Одна новость -->
                     <div class="row">
-                        <div class="col-6">
-                            <img src="./assets/img/1.png" alt="">
+                        <div class="col-6 pe-3">
+                            <img src="./assets/img/1.png" alt="" class="w-100">
                         </div>
                         <div class="col-6">
                         <h2>
@@ -78,8 +77,8 @@
 
                     <!-- Одна новость -->
                     <div class="row">
-                        <div class="col-6">
-                            <img src="./assets/img/1.png" alt="">
+                        <div class="col-6 pe-3">
+                            <img src="./assets/img/1.png" alt="" class="w-100">
                         </div>
                         <div class="col-6">
                         <h2>
