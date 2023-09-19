@@ -10,5 +10,6 @@
     <h2><a href="news-page.php">Новости\акции</a></h2>
     <h2><a href="contact-page.php">Контакты</a></h2>
     <h2><a href="about-page.php">О компании</a></h2>
+    <h2><a href="doctor-page.php">Врач</a></h2>
 </body>
 </html>
