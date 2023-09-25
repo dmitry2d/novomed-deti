@@ -6,10 +6,18 @@
     <title>Новомед</title>
 
     <!-- Bootstrap -->
-    <!-- <link rel="stylesheet" href="./bootstrap/dist/css/bootstrap.css"> -->
-    <link rel="stylesheet" href="./css/custom.min.css">
-    <script src="./js/bootstrap.bundle.js"></script>
+    <link href="./assets/css/custom.min.css" rel="stylesheet">
+    <script src="./assets/js/bootstrap.bundle.js"></script>
     <!-- /Bootstrap -->
+
+    <!-- jQuery -->
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <!-- /jQuery -->
+
+    <!-- Lightbox -->
+    <link href="./assets/lightbox/css/lightbox.css" rel="stylesheet" />
+    <script src="./assets/lightbox/js/lightbox.js"></script>
+    <!-- /Lightbox -->
 
 </head>
 <body>

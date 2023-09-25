@@ -1,0 +1,16 @@
+.index-actions {
+    position: relative;
+    margin-top: -50px;
+}
+.index-actions__image {
+    position: relative;
+    height: 0;
+    padding-top: 55%;
+}
+.index-actions__image img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}

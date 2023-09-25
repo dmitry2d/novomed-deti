@@ -16,7 +16,7 @@
 @import "../node_modules/bootstrap/scss/bootstrap.scss";
 
 // Font Awesome
-$fa-font-path: "../assets/webfonts";
+$fa-font-path: "../webfonts";
 @import "../node_modules/@fortawesome/fontawesome-free/scss/fontawesome.scss";
 @import "../node_modules/@fortawesome/fontawesome-free/scss/solid.scss";
 @import "../node_modules/@fortawesome/fontawesome-free/scss/brands.scss";
@@ -30,5 +30,7 @@ $fa-font-path: "../assets/webfonts";
 @import "contact-form";
 @import "social-icons";
 @import "about";
+@import "index-slider";
+@import "index-actions";
 
 
