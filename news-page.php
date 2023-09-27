@@ -17,18 +17,20 @@
 
     <!-- Контент -->
     <section class="content bg-white">
-        <div class="container-xl px-3 py-5">
+        <div class="container-xl px-3 py-4">
 
-            <div class="row">
+            <div class="row pb-4">
                 <!-- Левая колонка -->
                 <div class="col-lg-7">
+
+                <h1>Новости</h1>
                         
                     <!-- Одна новость -->
                     <div class="row">
-                        <div class="col-6 pe-3">
+                        <div class="col-md-6 pe-3 pb-3">
                             <img src="./assets/img/1.png" alt="" class="w-100">
                         </div>
-                        <div class="col-6">
+                        <div class="col-md-6">
                         <h2>
                             Бесконтактная гидромассажная ванна «АКВА-РЕЛАКС»
                         </h2>
@@ -51,10 +53,10 @@
 
                     <!-- Одна новость -->
                     <div class="row">
-                        <div class="col-6 pe-3">
+                        <div class="col-md-6 pe-3 pb-3">
                             <img src="./assets/img/1.png" alt="" class="w-100">
                         </div>
-                        <div class="col-6">
+                        <div class="col-md-6">
                         <h2>
                             Бесконтактная гидромассажная ванна «АКВА-РЕЛАКС»
                         </h2>
@@ -77,10 +79,10 @@
 
                     <!-- Одна новость -->
                     <div class="row">
-                        <div class="col-6 pe-3">
+                        <div class="col-md-6 pe-3 pb-3">
                             <img src="./assets/img/1.png" alt="" class="w-100">
                         </div>
-                        <div class="col-6">
+                        <div class="col-md-6">
                         <h2>
                             Бесконтактная гидромассажная ванна «АКВА-РЕЛАКС»
                         </h2>
@@ -96,6 +98,10 @@
                         </div>
                     </div>
                     <!-- Одна новость -->
+
+                    <!-- Разделитель -->
+                    <div class="my-5"></div>
+                    <!-- / Разделитель -->
 
                 </div>
                 <!-- /Левая колонка -->

@@ -1,10 +1,6 @@
 
 <!--  Услуги -->
 
-
-
-
-
 <div class="index-services position-relative">
     <img
         class="position-absolute w-100 h-100"
@@ -16,17 +12,21 @@
     <h1 class="text-center">Услуги и цены</h1>
     
     <!-- Поиск услуг -->
-    <div class="w-25 mx-auto my-4">
-        <form action="" class="">
-            <div class="input-group mb-3">
-                <input type="text" class="form-control bg-white" placeholder="Поиск..." aria-label="Recipient's username" aria-describedby="button-addon2">
-                <button class="btn btn-primary" type="button" id="button-addon2">
-                    <i class="fa-solid fa-magnifying-glass">
-                        <input type="submit" class="btn p-0 m-0" value=" ">
-                    </i>
-                </button>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 mx-auto my-4">
+                <form action="" class="">
+                    <div class="input-group mb-3">
+                        <input type="text" class="form-control bg-white" placeholder="Поиск..." aria-label="Recipient's username" aria-describedby="button-addon2">
+                        <button class="btn btn-primary" type="button" id="button-addon2">
+                            <i class="fa-solid fa-magnifying-glass">
+                                <input type="submit" class="btn p-0 m-0" value=" ">
+                            </i>
+                        </button>
+                    </div>
+                </form>
             </div>
-        </form>
+        </div>
     </div>
     <!-- / Поиск услуг -->
 

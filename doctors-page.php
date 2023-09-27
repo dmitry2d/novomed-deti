@@ -17,9 +17,9 @@
 
             <h1>Специалисты клиники</h1>
 
-            <div class="row my-5">
+            <div class="row pt-5">
                 <!-- Левая колонка -->
-                <div class="col-lg-4 text-center">
+                <div class="col-lg-4 mb-5">
                     <img src="assets/img/doctor01.jpg" alt="" class="rounded-2 shadow-lg">                    
                 </div>
                 <!-- /Левая колонка -->
@@ -49,10 +49,9 @@
                 
                 <!-- Правая колонка -->
             </div>
-
-
-            <div class="row mt-4 pt-4">
-                <div class="col-md-6">
+            
+            <div class="row mt-4 pt-4 pb-5">
+                <div class="col-md-6 m-auto">
                     <form action="" class="">
                         <div class="input-group my-3">
                             <input type="text" class="form-control bg-white" placeholder="Поиск врача..." aria-label="Recipient's username" aria-describedby="button-addon2">
