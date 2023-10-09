@@ -53,13 +53,13 @@
             <!-- Меню услуг -->
             <div class="row">
 
-                <div class="col-md-3 p-0 m-2">
+                <div class="col-md-3 my-2">
                     <a class="btn btn-outline-primary d-block text-start py-3" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                         Флебология
                     </a>
                 </div>
 
-                <div class="dropdown col-md-3 p-0 m-2">
+                <div class="dropdown col-md-3 my-2">
                     <a class="btn btn-outline-primary dropdown-toggle d-block text-start py-3" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                         Акушерство и гинекология
                     </a>
@@ -70,7 +70,7 @@
                     </ul>
                 </div>
 
-                <div class="dropdown col-md-3 p-0 m-2">
+                <div class="dropdown col-md-3 my-2">
                     <a class="btn btn-outline-primary dropdown-toggle d-block text-start py-3" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                         Акушерство и гинекология
                     </a>
@@ -81,13 +81,13 @@
                     </ul>
                 </div>
 
-                <div class="col-md-3 p-0 m-2">
+                <div class="col-md-3 my-2">
                     <a class="btn btn-outline-primary d-block text-start py-3" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                         Флебология
                     </a>
                 </div>
 
-                <div class="col-md-3 p-0 m-2">
+                <div class="col-md-3 my-2">
                     <a class="btn btn-outline-primary d-block text-start py-3" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                         Флебология
                     </a>
