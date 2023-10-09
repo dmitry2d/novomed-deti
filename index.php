@@ -23,7 +23,7 @@
         <h4><a href="service-page.php">Услуга</a></h4>
         <h4><a href="doctors-page.php">Специалисты</a></h4>
         <h4><a href="index-page.php">Главная страница</a></h4>
-        <h4>Услуги и цены</h4>
+        <h4><a href="services-page.php">Услуги клиники</a></h4>
     
 
     </div>
