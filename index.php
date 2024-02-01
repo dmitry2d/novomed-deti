@@ -3,11 +3,11 @@
 
     include 'components/header.php';
 
-    include 'components/topline.php';
+    // include 'components/topline.php';
     
-    include 'components/navbar.php';
+    // include 'components/navbar.php';
 
-    include 'components/breadcrumb.php';
+    // include 'components/breadcrumb.php';
 
 ?>
     
@@ -32,9 +32,9 @@
 
     <?php
 
-        include 'components/contactform.php';
+        // include 'components/contactform.php';
 
-        include 'components/footer.php';
+        // include 'components/footer.php';
 
     ?>
 

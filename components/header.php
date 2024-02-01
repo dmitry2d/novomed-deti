@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Новомед</title>
+    <title>Новомед Дети</title>
 
     <!-- Bootstrap -->
     <link href="./assets/css/custom.min.css" rel="stylesheet">
