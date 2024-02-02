@@ -1,0 +1,45 @@
+.index-header {
+    position: relative;
+    .logo-balls {
+        transform: translateX(12%);
+    }
+    .header-menu {
+        border-style: dashed!important;
+    }
+    .index-header-phone {
+        position: relative;
+        z-index: 2;
+        .phone-number {
+            font-family: 'Noto Sans';
+        }
+    }
+    .index-header-slider {
+        position: relative;
+        .index-header-background {
+            position: absolute;
+            top: 0;
+            right: -10%;
+            width: 130%;
+            img {
+                width: 100%;
+            }
+        }
+        .carousel {
+            height: 100%;
+            .carousel-indicators {
+                justify-content: flex-end;
+                margin-bottom: 0;
+                button {
+                    width: 21px;
+                    height: 21px;
+                    border: 4px solid #D1D2E1;
+                    border-radius: 50px;
+                    &.active {
+                        border-color: #A4C400;
+                    }
+                }
+            }
+        }
+    }
+
+}

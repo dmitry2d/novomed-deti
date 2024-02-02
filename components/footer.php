@@ -1,6 +1,6 @@
 
     <!-- Подвал -->
-    <section class="footer bg-gray-footer text-white py-5">
+    <!-- <section class="footer bg-gray-footer text-white py-5">
         <div class="container-xl px-3">
             <div class="row">
                 
@@ -61,18 +61,18 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- / Подвал -->
 
     
     <!-- Копирайты -->
-    <section class="copyrights">
+    <!-- <section class="copyrights">
         <div class="container-xl px-3 py-3">
             <small>
                 Все права защищены © 2022 НОВОМЕД
             </small>
         </div>
-    </section>
+    </section> -->
     <!-- / Копирайты -->
     
 </body>
