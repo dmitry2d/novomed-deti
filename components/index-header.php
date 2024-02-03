@@ -13,7 +13,7 @@
 
             <!-- Лого шарики -->
             <div class=" d-flex justify-content-end pb-2">
-                <img src="./assets/img/logo-balls.svg" alt="Новомед" class="logo-balls">
+                <img src="./assets/img/logo-balls_anim.svg" alt="Новомед" class="logo-balls">
             </div>
             <!-- / Лого шарики -->
 
@@ -55,7 +55,7 @@
         <div class="col-md-7 index-header-slider">
             <!-- Фон баннера -->
             <div class="index-header-background">
-                <img src="./assets/img/index_header_bg.svg">
+                <img src="./assets/img/index_header_bg_anim.svg">
             </div>
             <!-- / Фон баннера -->
             <!-- Слайдер -->

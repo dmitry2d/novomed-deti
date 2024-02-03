@@ -5,7 +5,7 @@
 
     include 'components/index-header.php';
 
-    // include 'components/topline.php';
+    include 'components/index-about.php';
     
     // include 'components/navbar.php';
 

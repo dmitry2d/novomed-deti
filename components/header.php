@@ -19,5 +19,10 @@
     <script src="./assets/lightbox/js/lightbox.js"></script>
     <!-- /Lightbox -->
 
+    <!-- Slick slider -->
+    <link href="./assets/slick/slick.css" rel="stylesheet" type="text/css" />
+    <script type="text/javascript" src="./assets/slick/slick.min.js"></script>
+    <!-- /Slick slider -->
+
 </head>
 <body>

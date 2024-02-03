@@ -1,4 +1,67 @@
+
+
 <svg width="229" height="136" viewBox="0 0 229 136" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+
+    <style>
+        @keyframes flow1 {
+            0% {
+                transform: translateY(0%);
+            }
+            50% {
+                transform: translateY(10%);
+            }
+            100% {
+                transform: translateY(0%);
+            }
+        }
+        @keyframes flow2 {
+            0% {
+                transform: translateY(0%);
+            }
+            30% {
+                transform: translateY(10%);
+            }
+            100% {
+                transform: translateY(0%);
+            }
+        }
+        @keyframes flow3 {
+            0% {
+                transform: translateY(0%);
+            }
+            70% {
+                transform: translateY(10%);
+            }
+            100% {
+                transform: translateY(0%);
+            }
+        }
+        @keyframes flow4 {
+            0% {
+                transform: translateY(0%);
+            }
+            20% {
+                transform: translateY(10%);
+            }
+            100% {
+                transform: translateY(0%);
+            }
+        }
+        #ball1 {
+            animation: 6s infinite flow1;
+        }
+        #ball2 {
+            animation: 12s infinite flow2;
+        }
+        #ball3 {
+            animation: 19s infinite flow3;
+        }
+        #ball4 {
+            animation: 10s infinite flow4;
+        }
+    </style>
+
 <g id="Group 3">
 <g id="ball4">
 <g id="Subtract" filter="url(#filter0_d_413_1526)">
