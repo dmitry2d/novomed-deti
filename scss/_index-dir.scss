@@ -1,3 +1,20 @@
 .index-dir {
-    
+    .index-dir-items {
+        .index-dir-item {
+            border-style: dashed;
+            cursor: pointer;
+            box-shadow: 0 20px 30px transparent;
+            transition: 0.23s ease-out;
+            img {
+                width: 65px;
+                height: 65px;
+            }
+            &:hover {
+                top: -3px;
+                border-color: transparent!important;
+                box-shadow: 0 20px 30px #00003020;
+            }
+
+        }
+    }
 }
