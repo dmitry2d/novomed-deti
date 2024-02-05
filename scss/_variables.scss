@@ -8,8 +8,7 @@ $custom-colors: (
   "style-yellow": #F9EB56,
   "style-green": #A4C400,
   "style-red": #FF8743,
-  "style-blue": #778EC7,
-
+  "style-blue": #778EC7
 );
 $theme-colors: map-merge($theme-colors, $custom-colors);
 
