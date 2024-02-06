@@ -1,0 +1,75 @@
+.index-clouds {
+    position: relative;
+    height: 600px;
+    .picture {
+        position: absolute;
+        inset: 0;
+        top: 200px;
+        img {
+            display: block;
+            position: absolute;
+            inset: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            object-position: 50% 50%;
+        }
+    }
+    @keyframes clouds_move {
+        0% {
+            background-position-x: 0;
+        }
+        100% {
+            background-position-x: 1440px;
+        }
+    }
+    .clouds-top1 {
+        position: absolute;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        background: url('../img/clouds/clouds_top01.png') repeat-x 0 0;
+        animation: clouds_move 90s linear infinite;
+    }
+    .clouds-top2 {
+        position: absolute;
+        top: 35px;
+        width: 100%;
+        height: 100%;
+        background: url('../img/clouds/clouds_top02.png') repeat-x 0 0;
+        animation: clouds_move 54s linear infinite;
+    }
+    .clouds-top3 {
+        position: absolute;
+        top: 105px;
+        width: 100%;
+        height: 100%;
+        background: url('../img/clouds/clouds_top03.png') repeat-x 0 0;
+        animation: clouds_move 38s linear infinite;
+    }
+    .clouds-bottom1 {
+        position: absolute;
+        bottom: -400px;
+        width: 100%;
+        height: 100%;
+        background: url('../img/clouds/clouds_bottom01.png') repeat-x 0 0;
+        animation: clouds_move 90s linear infinite;
+    }
+    .clouds-bottom2 {
+        position: absolute;
+        bottom: -500px;
+        width: 100%;
+        height: 100%;
+        background: url('../img/clouds/clouds_bottom02.png') repeat-x 0 0;
+        animation: clouds_move 60s linear infinite;
+    }
+    .clouds-bottom3 {
+        position: absolute;
+        bottom: -450px;
+        width: 100%;
+        height: 100%;
+        background: url('../img/clouds/clouds_bottom03.png') repeat-x 0 0;
+        animation: clouds_move 30s linear infinite;
+    }
+
+}

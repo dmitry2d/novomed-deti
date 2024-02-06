@@ -13,6 +13,8 @@
     
     include 'components/index-dir.php';
 
+    include 'components/index-clouds.php';
+
 ?>
 
 <?php
