@@ -9,6 +9,27 @@
             transform: rotate(360deg);
         }
     }
+    @keyframes plane {
+        0% {
+            transform: rotate(0deg) translateY(0px);
+        }
+        10% {
+            transform: rotate(2deg) translateY(0px);
+            translateX(0px);
+        }
+        50% {
+            transform: rotate(5deg) translateY(25px);
+            translateX(50px);
+        }
+        60% {
+            transform: rotate(1deg) translateY(30px);
+            translateX(50px);
+        }
+        100% {
+            transform: rotate(0deg) translateY(0px);
+            translateX(0px);
+        }
+    }
     #cloud_03 {
         animation: 220s infinite rotation linear;
         transform-origin: 420px 90px;
@@ -20,6 +41,10 @@
     #sun {
         animation: 30s infinite rotation linear;
         transform-origin: 744px 59px;
+    }
+    #plane {
+        animation: 6s infinite plane ease-in-out;
+        transform-origin: 630px 300px;
     }
 </style>
 
@@ -168,7 +193,7 @@
 <circle cx="744.5" cy="60.5" r="25.5" fill="#FFFFFC"/>
 </g>
 </g>
-<g id="Group 6">
+<g id="plane">
 <path id="Vector 9_2" d="M596.179 317.934C591.481 322.269 574.835 325.198 567.289 322.375C559.552 319.482 551.15 308.764 554.374 300.16C559.713 285.909 577.432 295.936 583.047 298.352C587.508 291.081 598.18 278.194 610.107 265.325C625.017 249.239 638.196 263.633 634.125 274.22C630.054 284.807 600.877 313.599 596.179 317.934Z" fill="#FDEA92"/>
 <g id="Vector 10_2" filter="url(#filter24_d_441_1184)">
 <path d="M599.962 304.303C605.565 290.217 611.917 286.927 617.326 282.78C629.516 280.694 617.08 308.68 611.415 321.428L611.375 321.516C605.729 334.222 596.58 312.808 599.962 304.303Z" fill="#FF8743"/>

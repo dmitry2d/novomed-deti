@@ -25,5 +25,3 @@
 </script>
 
 <!-- /Облака -->
-
-<div class="" style="height: 1000px;"></div>

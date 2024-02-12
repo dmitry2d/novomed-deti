@@ -157,7 +157,7 @@
         <div class="col-md-3">
             <div class="h-100 d-flex align-items-center justify-content-center">
                 <a href="" class="bg-style-red bg-gradient d-flex align-items-center rounded-5 py-2 px-5 text-white">
-                    <img src="./assets/img/logo_sml_white.svg" alt="" class="pe-2">
+                    <img src="./assets/img/icons/dir.svg" alt="" class="pe-2">
                     <div>Все направления</div>
                 </a>
             </div>

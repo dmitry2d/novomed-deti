@@ -1,0 +1,92 @@
+
+
+
+.doctors {
+    .doctors-search-form {
+        padding: 0;
+        margin: 0;
+        border-radius: 100px;
+        overflow: hidden;
+        box-shadow: 0 10px 20px rgba(var(--bs-style-darkblue-rgb), 0.1);
+        display: flex;
+        align-items: stretch;
+        .doctors-search-name {
+            background: white;
+            flex-grow: 1;
+            display: flex;
+            justify-content: center;
+            input {
+                border: 0;
+                outline: none;
+                padding: 10px 20px;
+                width: 100%;
+                &::placeholder {
+                    color: rgba(var(--bs-style-darkblue-rgb), 0.4);
+                }
+            }
+        }
+        button {
+            height: 100%;
+            border: 0;
+            outline: none;
+            padding: 15px 20px 15px 10px;
+        }
+        
+    }
+    .doctors-item {
+        box-shadow: 0 30px 70px rgba(var(--bs-style-darkblue-rgb), 0.1);
+        border-radius: 90px;
+        font-weight: 500;
+        .doctors-item-photo {
+            border-radius: 70px;
+            overflow: hidden;
+            width: 100%;
+            padding-bottom: 100%;
+            height: 0;
+            img {
+                width: 100%;
+            }
+        }
+
+    }
+    .doctors-navy {
+
+        & > div {
+            border: 2px solid rgba(var(--bs-style-darkblue-rgb), 0.2);
+            border-radius: 100px;
+            margin: 5px;
+            font-size: 25px;
+            color: rgba(var(--bs-style-darkblue-rgb), 1);
+
+            a {
+                display: flex;
+                width: 60px;
+                height: 60px;
+                text-decoration: none;
+                align-items: center;
+                justify-content: center;
+            }
+            
+            &.doctors-navy-dots {
+                border-color: #00000000;
+            }
+            &.doctors-navy-prev,
+            &.doctors-navy-next {
+                border: 2px solid rgba(var(--bs-style-darkblue-rgb), 1);
+                &.disabled {
+                    opacity: 0.2;
+                    pointer-events: none;
+                }
+            }
+            &.active {
+                background: rgba(var(--bs-style-green-rgb), 1);
+                border: 2px solid rgba(var(--bs-style-green-rgb), 1);
+                pointer-events: none;
+                a {
+                    color: white;
+                }
+            }
+        }
+
+    }
+}

@@ -2,6 +2,7 @@
 <!-- Шапка сайта - главная страница -->
 
 <div class="container index-header">
+    <div class="" id="to-top"></div>
     <div class="row">
         <div class="col-md-3">
 

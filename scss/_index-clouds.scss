@@ -1,6 +1,8 @@
 .index-clouds {
     position: relative;
     height: 600px;
+    z-index: -1;
+    margin-bottom: 200px;
     .picture {
         position: absolute;
         inset: 0;
