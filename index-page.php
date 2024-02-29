@@ -1,12 +1,24 @@
 
 <?php
 
-    include 'components/header.php';
+include 'components/header.php';
+
+include 'components/index-header.php';
+
+?>
+
+<div class="container pt-5">
+    <div class="row">
+        <div class="col-md-5">
+            <?php
+                include 'components/sitesearch.php';
+            ?>
+        </div>
+    </div>
+</div>
+
+<?php
     
-    include 'components/index-header.php';
-
-    include 'components/sitesearch.php';
-
     include 'components/index-about.php';
 
     include 'components/index-dir.php';

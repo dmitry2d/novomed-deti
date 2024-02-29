@@ -4,16 +4,34 @@
     include 'components/header.php';
 
     include 'components/inner-header.php';
+    
+    
+    ?>
 
-?>
+<div class="container service-page">
+    
+    <div class="row">
 
-    <div class="container service-page">
+        <div class="col-md-8">
+            <?php
+                
+                include './components/breadcrumb.php';
 
-        <?php
-            include './components/breadcrumb.php';
-        ?>
+            ?>
+            <h1 class="text-style-darkblue fw-normal fs-1 mb-5 pb-4">Ортопедия и травмотология</h1>
+        </div>
+        
+        <div class="col-lg-4 d-none d-lg-block pt-4">
+            <?php
 
-        <h1 class="text-style-darkblue fw-normal fs-1 mb-5 pb-4">Ортопедия и травмотология</h1>
+                include 'components/sitesearch.php';
+
+            ?>
+        </div>
+    
+    </div>
+
+
 
 
         <ul class="navpills nav nav-pills mb-5" id="pills-tab" role="tablist">

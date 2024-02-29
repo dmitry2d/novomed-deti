@@ -11,7 +11,7 @@
     </div>
 
     <div class="row g-4 my-4 index-dir-items">
-        <div class="col-md-6">
+        <div class="col-lg-6">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -24,7 +24,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-lg-3">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -37,7 +37,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-lg-3">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -50,7 +50,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-lg-3">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -63,7 +63,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-lg-6">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -76,7 +76,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-lg-3">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -89,7 +89,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-lg-6">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -102,7 +102,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-lg-3">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -115,7 +115,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-lg-3">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -128,7 +128,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-lg-6">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -141,7 +141,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-lg-3">
             <div class="index-dir-item border-style-cyan border-2 rounded-5 p-4 h-100 d-flex flex-column">
                 <div class="d-flex p-2">
                     <h4 class="text-style-darkblue lh-1 pe-2 flex-grow-1">
@@ -154,7 +154,7 @@
                 </p>
             </div>
         </div>
-        <div class="col-md-3">
+        <div class="col-lg-3">
             <div class="h-100 d-flex align-items-center justify-content-center">
                 <a href="" class="bg-style-red bg-gradient d-flex align-items-center rounded-5 py-2 px-5 text-white">
                     <img src="./assets/img/icons/dir.svg" alt="" class="pe-2">

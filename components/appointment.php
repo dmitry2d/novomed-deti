@@ -4,7 +4,7 @@
 <div class="container my-5">
     <div class="row p-5 border border-3 border-style-darkblue rounded-5 appointment text-center">
         <div class="text-center text-style-red fs-1">Запишитесь на прием</div>
-        <div class="d-flex align-items-center justify-content-center text-style-darkblue my-3">
+        <div class="d-lg-flex align-items-center justify-content-center text-style-darkblue my-3">
             <div class="fs-6">Позвоните нам<br>по телефону</div>
             <div class="">
                 <img src="./assets/img/phone.png" alt="Телефон">

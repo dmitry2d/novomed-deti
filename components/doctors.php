@@ -28,7 +28,7 @@
             <div class="row gx-4">
             
                 <!-- Врач -->
-                <div class="col-md-3">
+                <div class="col-lg-3 col-md-6">
                     <div class="doctors-item p-4 h-100">
                         <div class="doctors-item-photo">
                             <img src="./assets/img/photo/doc1.png" alt="">
@@ -56,7 +56,7 @@
                 <!-- /Врач -->
             
                 <!-- Врач -->
-                <div class="col-md-3">
+                <div class="col-lg-3 col-md-6">
                     <div class="doctors-item p-4 h-100">
                         <div class="doctors-item-photo">
                             <img src="./assets/img/photo/doc1.png" alt="">
@@ -84,7 +84,7 @@
                 <!-- /Врач -->
             
                 <!-- Врач -->
-                <div class="col-md-3">
+                <div class="col-lg-3 col-md-6">
                     <div class="doctors-item p-4 h-100">
                         <div class="doctors-item-photo">
                             <img src="./assets/img/photo/doc1.png" alt="">
@@ -112,7 +112,7 @@
                 <!-- /Врач -->
             
                 <!-- Врач -->
-                <div class="col-md-3">
+                <div class="col-lg-3 col-md-6">
                     <div class="doctors-item p-4 h-100">
                         <div class="doctors-item-photo">
                             <img src="./assets/img/photo/doc1.png" alt="">

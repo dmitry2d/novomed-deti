@@ -4,7 +4,7 @@
 <div class="container index-header">
     <div class="" id="to-top"></div>
     <div class="row">
-        <div class="col-md-3">
+        <div class="col-lg-3">
 
             <!-- Лого -->
             <div class="pt-5 d-flex justify-content-end">
@@ -22,11 +22,10 @@
             <div class="header-menu border border-2 border-style-green rounded-5">
                 <div class="header-menu-items d-flex flex-column p-5 fs-5 lh-base">
                     <a href="">О клинике</a>
+                    <a href="">Новости и акции</a>
                     <a href="">Врачи</a>
-                    <a href="">Акции</a>
-                    <a href="">Родителям</a>
-                    <a href="">Пациентам</a>
                     <a href="">Услуги и цены</a>
+                    <a href="">Пациентам</a>
                     <a href="">Контакты</a>
                 </div>
 
@@ -34,7 +33,7 @@
             <!-- / Меню -->
 
         </div>
-        <div class="col-md-2 d-flex flex-column justify-content-end index-header-phone">
+        <div class="col-lg-2 d-flex flex-column justify-content-end index-header-phone">
             <!-- Телефон -->
             <div class="index-header-phone d-flex flex-column justify-content-center pb-3">
                 <div class="d-flex justify-content-center">
@@ -53,7 +52,7 @@
             </div>
             <!-- / Соцсети -->
         </div>
-        <div class="col-md-7 index-header-slider">
+        <div class="col-lg-7 index-header-slider d-none d-lg-block">
             <!-- Фон баннера -->
             <div class="index-header-background">
                 <img src="./assets/img/index_header_bg_anim.svg">
@@ -112,7 +111,5 @@
         </div>
     </div>
 </div>
-
-
 
 <!-- / Шапка сайта - главная страница -->

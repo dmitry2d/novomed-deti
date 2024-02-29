@@ -1,21 +1,28 @@
 
 <!-- Подвал -->
-<div class="w-100 pe-5">
-    <div class="pe-5">
-        <a href="#to-top"><img src="./assets/img/to_top.svg" alt="Наверх" style="max-width: 90%"></a>
+<div class="w-100">
+    <a href="#to-top"><img src="./assets/img/to_top.svg" alt="Наверх" style="max-width: 90%"></a>
+</div>
+
+<div class="container pt-5">
+    <div class="row">
+        <div class="col-md-5">
+            <?php
+                include 'components/sitesearch.php';
+            ?>
+        </div>
     </div>
 </div>
 
-<div class="container index-footer">
+<div class="container index-footer pt-5">
     <div class="row">
-        <div class="d-flex">
-        <a href="" class="fs-5 pe-4">О клинике</a>
-        <a href="" class="fs-5 pe-4">Врачи</a>
-        <a href="" class="fs-5 pe-4">Акции</a>
-        <a href="" class="fs-5 pe-4">Родителям</a>
-        <a href="" class="fs-5 pe-4">Пациентам</a>
-        <a href="" class="fs-5 pe-4">Услуги и цены</a>
-        <a href="" class="fs-5 pe-4">Контакты</a>
+        <div class="d-lg-flex">
+        <a href="" class="fs-5 pe-4 d-block">О клинике</a>
+        <a href="" class="fs-5 pe-4 d-block">Новости и акции</a>
+        <a href="" class="fs-5 pe-4 d-block">Врачи</a>
+        <a href="" class="fs-5 pe-4 d-block">Услуги и цены</a>
+        <a href="" class="fs-5 pe-4 d-block">Пациентам</a>
+        <a href="" class="fs-5 pe-4 d-block">Контакты</a>
     </div>
     <div class="row mt-5">
         <div class="col-md-4">
@@ -49,7 +56,7 @@
             </div>
         </div>
         <div class="col-md-8">
-            <img src="./assets/img/bottom_bg.svg" class="w-100" alt="">
+            <img src="./assets/img/bottom_bg_anim.svg" class="w-100" alt="">
         </div>
     </div>
 </div>

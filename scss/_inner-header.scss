@@ -13,3 +13,13 @@
     }
 
 }
+
+
+@media screen and (max-width: 992px) {
+
+    .inner-header {
+        margin-bottom: 0px;
+        background: url('../img/bg_top_inside.svg') no-repeat center bottom 140px;
+    }
+    
+}

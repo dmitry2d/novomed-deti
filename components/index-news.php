@@ -4,7 +4,7 @@
     <div class="index-news py-5">
         <div class="container">
             <div class="row g-0">
-                <div class="col-md-5 index-news-announce p-0">
+                <div class="col-lg-5 index-news-announce p-0">
                     <div class="index-news-photo">
                         <img src="./assets/img/photo/news1.png" alt="">
                     </div>
@@ -23,7 +23,7 @@
                         </a>
                     </div>
                 </div>
-                <div class="col-md-7 index-news-list ps-5">
+                <div class="col-lg-7 index-news-list ps-3 ps-lg-5">
                     <div class="text-style-green fs-2">Новости и акции</div>
 
                     <!-- Новость -->
