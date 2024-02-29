@@ -23,9 +23,9 @@
                 <div class="">
                     <img src="./assets/img/phone.png" alt="">
                 </div>
-                <div class="">
-                    <div class="fs-6">8(8167)</div>
-                    <div class="fs-1 fw-bolder text-style-red lh-sm">799 - 799</div>
+                <div class="d-flex align-items-center">
+                    <div class="fs-6"></div>
+                    <div class="fs-3 text-style-red lh-sm">8 (8617) <span class="fw-bolder">799-799</span></div>
                 </div>
             </div>
             <div class="d-flex mt-2">

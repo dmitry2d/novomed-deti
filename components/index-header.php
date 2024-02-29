@@ -40,8 +40,8 @@
                 <div class="d-flex justify-content-center">
                     <img src="./assets/img/phone.png" alt="Телефон">
                 </div>
-                <div class="text-center fs-6 fw-bold lh-sm">8 (8167)</div>
-                <div class="text-center text-style-red fs-2 fw-bolder phone-number lh-sm">799 - 799</div>
+                <div class="text-center fs-6 fw-bold lh-sm"></div>
+                <div class="text-center text-style-red fs-5 phone-number lh-sm">8 (8617) <span class="fw-bolder">799-799</span></div>
             </div>
             <!-- / Телефон -->
             <!-- Соцсети -->
@@ -112,5 +112,7 @@
         </div>
     </div>
 </div>
+
+
 
 <!-- / Шапка сайта - главная страница -->

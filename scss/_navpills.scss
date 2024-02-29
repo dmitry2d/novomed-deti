@@ -1,0 +1,23 @@
+.navpills {
+
+    &.nav.nav-pills {
+
+        .nav-item {
+            .nav-link {
+                border: 2px solid rgba(var(--bs-style-darkblue-rgb), 0.12);
+                border-radius: 100px;
+                margin-right: 10px;
+                padding: 10px 20px;
+                font-weight: 500;
+                &.active {
+                    border: 2px solid rgba(var(--bs-style-darkblue-rgb), 1);
+                    background: none;
+                    color: rgba(var(--bs-style-darkblue-rgb));
+                    font-weight: 500;
+                }
+            }
+        }
+
+    }
+
+}

@@ -1,0 +1,18 @@
+
+
+ul.styled {
+    list-style-type: none;
+    li{
+        position: relative;
+        &::after {
+            position: absolute;
+            content: '';
+            left: -32px;
+            top: 6px;
+            width: 13px;
+            height: 13px;
+            border: 3px solid rgba(var(--bs-style-green-rgb),1);
+            border-radius: 100px;
+        }
+    }
+}

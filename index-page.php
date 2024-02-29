@@ -2,8 +2,10 @@
 <?php
 
     include 'components/header.php';
-
+    
     include 'components/index-header.php';
+
+    include 'components/sitesearch.php';
 
     include 'components/index-about.php';
 

@@ -3,148 +3,84 @@
 
     include 'components/header.php';
 
-    include 'components/topline.php';
-    
-    include 'components/navbar.php';
-
-    include 'components/breadcrumb.php';
+    include 'components/inner-header.php';
 
 ?>
-    
-    <!-- Контент -->
-    <section class="content">
-        <div class="container-xl px-3 py-5">
 
-            <h1>Акушерство и гинекология</h1>
+    <div class="container service-page">
 
-            <div class="row my-5">
-                <!-- Левая колонка -->
-                <div class="col-lg-9">
-                   
-                    <ul class="nav nav-tabs" id="myTab" role="tablist">
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link active px-4 py-3" id="home-tab" data-bs-toggle="tab" data-bs-target="#d1" type="button" role="tab" aria-controls="d1" aria-selected="true">Об услуге</button>
-                            </li>
-                            <li class="nav-item" role="presentation">
-                                <button class="nav-link px-4 py-3" id="profile-tab" data-bs-toggle="tab" data-bs-target="#d2" type="button" role="tab" aria-controls="d2" aria-selected="false">Цены</button>
-                            </li>
-                            <li class="nav-item pt-2 px-4">
-                                <a class="btn btn-danger fw-bold my-1" href="#service-page-doctors">Врачи</a>
-                            </li>
-                        </ul>
+        <?php
+            include './components/breadcrumb.php';
+        ?>
 
-                        <div class="tab-content" id="myTabContent">
-                            
-                            <div class="tab-pane fade show active p-4 border border-top-0 lh-lg" id="d1" role="tabpanel" aria-labelledby="d1tab">
-                                <p>В нашем медицинском центре мы предоставляем пациентам полный спектр помощи в сфере акушерства и гинекологии: </p>
-                                <ul>
-                                    <li>Прием опытных врачей. Консультации гинеколога с осмотром в кресле.</li>
-                                    <li>Лабораторная диагностика, УЗИ-диагностика, ультразвуковая гистеросальпингография (гидросонография, гидроэхография).</li>
-                                    <li>Лечение заболеваний, передающихся половым путем.</li>
-                                    <li>Подбор индивидуальных методов контрацепции (в т.ч. постановка/удаление спирали, гормональная контрацепция).</li>
-                                    <li>Установление причин бесплодия, лечение всех его видов.</li>
-                                    <li>Помощь при климаксе — решение проблем климактерического периода.</li>
-                                    <li>Гормональные средства в гинекологии и сексуальная функция женщины.</li>
-                                    <li>Лечение нарушений менструальной функции (в т.ч. болезненные месячные, предменструальный синдром).</li>
-                                    <li>Диагностика и лечение миомы матки, эндометриоза и их осложнений.</li>
-                                    <li>Планирование и ведение беременности.</li>
-                                    <li>Прерывание беременности на ранних сроках. Медикаментозное прерывание.</li>
-                                    <li>Диагностика и лечение эрозии шейки матки и другой патологии шейки матки. В нашем медицинском центре открыт кабинет «патологии шейки матки», оборудованный современным диагностическим оборудованием.</li>
-                                    <li>Хирургическая гинекология с применением малоинвазивных технологий.</li>
-                                    <li>Пластика интимной зоны</li>
-                                    <li>Эстетическая коррекция в гинекологии.</li>
-                                    <li>Широкий спектр физиотерапевтических процедур.</li>
-                                </ul>
-                                Консультация гинеколога необходима любой женщине, которая следит за своим здоровьем, ведь от него зависит и её репродуктивная функция. На прием к гинекологу стоит прийти не только в случае опасений, также необходимо плановое профилактическое посещение специалиста не реже раза в год.  
-                            </div>
-                            
-                            <div class="tab-pane fade show p-4 border border-top-0 lh-lg" id="d2" role="tabpanel" aria-labelledby="d2tab">
-                                <p>Актуальные цены уточняйте по телефону <b>+7(8617)799-799</b></p>
-                                <table class="table table-striped table-hover">
-                                    <thead>
-                                        <tr>
-                                            <th colspan="3">ПРИЕМ СПЕЦИАЛИСТОВ</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>АГ-2а (B01.001.002)</td>
-                                            <td>Прием (осмотр, консультация) врача акушера-гинеколога высшей категории, К.М.Н. повторный</td>
-                                            <td>1500</td>
-                                        </tr>
-                                        <tr>
-                                            <td>АГ-2а (B01.001.002)</td>
-                                            <td>Прием (осмотр, консультация) врача акушера-гинеколога высшей категории, К.М.Н. повторный</td>
-                                            <td>1500</td>
-                                        </tr>
-                                        <tr>
-                                            <td>АГ-2а (B01.001.002)</td>
-                                            <td>Прием (осмотр, консультация) врача акушера-гинеколога высшей категории, К.М.Н. повторный</td>
-                                            <td>1500</td>
-                                        </tr>
-                                        <tr>
-                                            <td>АГ-2а (B01.001.002)</td>
-                                            <td>Прием (осмотр, консультация) врача акушера-гинеколога высшей категории, К.М.Н. повторный</td>
-                                            <td>1500</td>
-                                        </tr>
-                                        <tr>
-                                            <td>АГ-2а (B01.001.002)</td>
-                                            <td>Прием (осмотр, консультация) врача акушера-гинеколога высшей категории, К.М.Н. повторный</td>
-                                            <td>1500</td>
-                                        </tr>
-                                        <tr>
-                                            <td>АГ-2а (B01.001.002)</td>
-                                            <td>Прием (осмотр, консультация) врача акушера-гинеколога высшей категории, К.М.Н. повторный</td>
-                                            <td>1500</td>
-                                        </tr>
-                                        <tr>
-                                            <td>АГ-2а (B01.001.002)</td>
-                                            <td>Прием (осмотр, консультация) врача акушера-гинеколога высшей категории, К.М.Н. повторный</td>
-                                            <td>1500</td>
-                                        </tr>
-                                    </tbody>
-                                </table>
-                            </div>
+        <h1 class="text-style-darkblue fw-normal fs-1 mb-5 pb-4">Ортопедия и травмотология</h1>
 
-                        </div>
 
-                </div>
-                <!-- /Левая колонка -->
+        <ul class="navpills nav nav-pills mb-5" id="pills-tab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="pills-home-tab" data-bs-toggle="pill" data-bs-target="#pills-home" type="button" role="tab" aria-controls="pills-home" aria-selected="true">
+                    Об услуге
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pills-profile-tab" data-bs-toggle="pill" data-bs-target="#pills-profile" type="button" role="tab" aria-controls="pills-profile" aria-selected="false">
+                    Цены
+                </button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="pills-contact-tab" data-bs-toggle="pill" data-bs-target="#pills-contact" type="button" role="tab" aria-controls="pills-contact" aria-selected="false">
+                    Врачи
+                </button>
+            </li>
+        </ul>
+        <div class="tab-content" id="pills-tabContent">
+        <div class="tab-pane fade show active" id="pills-home" role="tabpanel" aria-labelledby="pills-home-tab">
 
-                <!-- Правая колонка -->
-
-                <div class="col-lg-3 py-2 ps-lg-5">
-
-                    <a href="" class="btn btn-outline-dark py-2">Гинекология хирургическая</a>
-
-                </div>
-                
-                <!-- / Правая колонка -->
-            </div>
-
-            <div id="service-page-doctors" class="mt-4"></div>
-           
-            <!-- Врачи -->
-                <?php include 'components/doctors.php'; ?>
-            <!-- / Врачи -->
+        <p>
+            Медицинский центр «Новомед» оказывает помощь пациентам в лечении заболеваний опорно-двигательного аппарата. Команда травматологов-ортопедов проводит как консультативные приемы по любым заболеваниям костно-мышечной системы – от деформации стоп до проблем с шеей, так и операции разной сложности.
+        </p>
+        <p>
+            Для диагностики заболевания в используются все основные методы лабораторного и инструментального исследования:
+        </p>
+        <ul class="styled my-4">
+            <li>КТ –исследования.</li>
+            <li>Ультразвуковое исследование.</li>
+            <li>Педобарография.</li>
+            <li>Лабораторные исследования.</li>
+        </ul>
+        <p>
+            Комплексная диагностика позволяет точно выявить локализацию патологического процесса, форму и степень тяжести заболевания. На основе результатов диагностики и детального сбора анамнеза травматолог-ортопед предложит подходящий вариант лечения.
+        </p>
+        <h2 class="text-style-darkblue mt-4">
+            Консервативное лечение переломов:
+        </h2>
+        <ul class="styled my-4">
+        <li>КТ –исследования.</li>
+            <li>Ультразвуковое исследование.</li>
+            <li>Педобарография.</li>
+            <li>Лабораторные исследования.</li>
+        </ul>
 
         </div>
-    </section>
-    <!-- Контент -->
+        <div class="tab-pane fade" id="pills-profile" role="tabpanel" aria-labelledby="pills-profile-tab">...</div>
+        <div class="tab-pane fade" id="pills-contact" role="tabpanel" aria-labelledby="pills-contact-tab">...</div>
+        </div>
 
-    <?php
+    </div>
+    
+    <div class="doctors-full mt-5 pt-4">
+        <?php
+            include 'components/doctors.php';
+        ?>
+    </div>
 
-        include 'components/contactform.php';
+<?php
 
-        include 'components/footer.php';
+    include 'components/question.php';
 
-    ?>
+    include 'components/index-footer.php';
 
-    <style>
-        /* Миша, это нужно чтобы плавно передвигалась страница по красной кнопке "врачи" страницы (на врачей) */
-        body {
-            scroll-behavior: smooth; 
-        }
-    </style>
+    include 'components/footer.php';
 
+?>
     

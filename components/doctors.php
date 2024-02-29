@@ -25,18 +25,18 @@
             </div>
 
 
-            <div class="row gx-5">
+            <div class="row gx-4">
             
                 <!-- Врач -->
                 <div class="col-md-3">
-                    <div class="doctors-item p-4">
+                    <div class="doctors-item p-4 h-100">
                         <div class="doctors-item-photo">
                             <img src="./assets/img/photo/doc1.png" alt="">
                         </div>
                         <div class="text-style-darkblue opacity-50 fs-5 text-center pt-3 pb-1">
                             главный врач
                         </div>
-                        <div class="text-style-darkblue fs-2 text-center">
+                        <div class="text-style-darkblue fs-3 text-center">
                             Каралевтеров
                         </div>
                         <div class="text-style-darkblue fs-5 lh-sm text-center">
@@ -57,7 +57,7 @@
             
                 <!-- Врач -->
                 <div class="col-md-3">
-                    <div class="doctors-item p-4">
+                    <div class="doctors-item p-4 h-100">
                         <div class="doctors-item-photo">
                             <img src="./assets/img/photo/doc1.png" alt="">
                         </div>
@@ -67,7 +67,7 @@
                         <div class="text-style-darkblue fs-3 text-center">
                             Каралевтеров
                         </div>
-                        <div class="text-style-darkblue fs-6 lh-sm text-center">
+                        <div class="text-style-darkblue fs-5 lh-sm text-center">
                             Александр Юрьевич
                         </div>
                         <div class="text-style-darkblue opacity-50 fs-5 text-center py-4">
@@ -85,7 +85,7 @@
             
                 <!-- Врач -->
                 <div class="col-md-3">
-                    <div class="doctors-item p-4">
+                    <div class="doctors-item p-4 h-100">
                         <div class="doctors-item-photo">
                             <img src="./assets/img/photo/doc1.png" alt="">
                         </div>
@@ -95,7 +95,7 @@
                         <div class="text-style-darkblue fs-3 text-center">
                             Каралевтеров
                         </div>
-                        <div class="text-style-darkblue fs-6 lh-sm text-center">
+                        <div class="text-style-darkblue fs-5 lh-sm text-center">
                             Александр Юрьевич
                         </div>
                         <div class="text-style-darkblue opacity-50 fs-5 text-center py-4">
@@ -113,7 +113,7 @@
             
                 <!-- Врач -->
                 <div class="col-md-3">
-                    <div class="doctors-item p-4">
+                    <div class="doctors-item p-4 h-100">
                         <div class="doctors-item-photo">
                             <img src="./assets/img/photo/doc1.png" alt="">
                         </div>
@@ -123,7 +123,7 @@
                         <div class="text-style-darkblue fs-3 text-center">
                             Каралевтеров
                         </div>
-                        <div class="text-style-darkblue fs-6 lh-sm text-center">
+                        <div class="text-style-darkblue fs-5 lh-sm text-center">
                             Александр Юрьевич
                         </div>
                         <div class="text-style-darkblue opacity-50 fs-5 text-center py-4">
@@ -138,6 +138,7 @@
                     </div>
                 </div>
                 <!-- /Врач -->
+            
 
             </div>
 
