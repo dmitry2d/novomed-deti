@@ -17,6 +17,7 @@
 
             <h4><a href="index-page.php">Главная страница</a></h4>
             <h4><a href="service-page.php">Услуга</a></h4>
+            <h4><a href="doctor-page.php">Врач</a></h4>
         
         </div>
     </section>

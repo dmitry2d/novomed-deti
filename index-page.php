@@ -38,6 +38,8 @@ include 'components/index-header.php';
 
     include 'components/index-news.php';
 
+    include 'components/feedback.php';
+
     include 'components/appointment.php';
 
     include 'components/index-footer.php';
