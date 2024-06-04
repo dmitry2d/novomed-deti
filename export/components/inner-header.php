@@ -34,16 +34,26 @@
                 </div>
                 <!-- / Меню -->
 
+                <!-- Адрес -->
+                <div class="d-flex mt-3">
+                    <img src="./assets/img/icons/geo.svg" alt="" class="pe-3">
+                    <div class="">Новороссийск, пр. Ленина, д. 76</div>
+                </div>
+                <!-- / Адрес -->
+
                 <!-- Телефон и запись -->
-                <div class="inner-header-phone d-inline-flex align-items-center my-4">
-                    <div class="">
-                        <img src="./assets/img/phone.png" alt="Телефон" width="60">
+                <div class="inner-header-phone d-inline-flex align-items-center mb-4 mt-2">
+                    <div class="d-flex flex-wrap justify-content-end">
+                        <div class="text-nowrap d-flex align-items-center">
+                            <img src="./assets/img/phone.png" alt="Телефон" width="60"><div class=" px-3 text-center text-style-red fs-5 fs-md-3 fw-normal phone-number lh-sm">8 (8167) 799 - 799</div>
+                        </div>
+                        <div class="">
+                            <a href="" class="bg-style-red bg-gradient d-inline-flex w-auto m-auto align-items-center rounded-5 py-2 px-4 pe-5 ms-4 text-white my-1">
+                                <img src="./assets/img/icons/paper.svg" alt="" class="pe-2">
+                                <div>Записаться на прием</div>
+                            </a>
+                        </div>
                     </div>
-                    <div class=" px-3 text-center text-style-red fs-5 fs-md-3 fw-normal phone-number lh-sm">8 (8167) 799 - 799</div>
-                    <a href="" class="bg-style-red bg-gradient d-inline-flex w-auto m-auto align-items-center rounded-5 py-2 px-4 pe-5 ms-4 text-white my-1">
-                        <img src="./assets/img/icons/paper.svg" alt="" class="pe-2">
-                        <div>Записаться на прием</div>
-                    </a>
                 </div>
                 <!-- / Телефон и запись -->
 

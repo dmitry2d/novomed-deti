@@ -4,16 +4,16 @@
 <div class="container index-header">
     <div class="" id="to-top"></div>
     <div class="row">
-        <div class="col-lg-3">
+        <div class="col-lg-4">
 
             <!-- Лого -->
-            <div class="pt-5 d-flex justify-content-end">
+            <div class="pt-5 d-flex justify-content-start">
                 <img src="./assets/img/logo.svg" alt="Новомед">
             </div>
             <!-- / Лого -->
 
             <!-- Лого шарики -->
-            <div class=" d-flex justify-content-end pb-2">
+            <div class=" d-flex justify-content-start pb-2">
                 <img src="./assets/img/logo-balls_anim.svg" alt="Новомед" class="logo-balls">
             </div>
             <!-- / Лого шарики -->
@@ -52,7 +52,7 @@
             </div>
             <!-- / Соцсети -->
         </div>
-        <div class="col-lg-7 index-header-slider d-none d-lg-block">
+        <div class="col-lg-6 index-header-slider d-none d-lg-block">
             <!-- Фон баннера -->
             <div class="index-header-background">
                 <img src="./assets/img/index_header_bg_anim.svg">
@@ -73,18 +73,11 @@
                                 в режиме реального времени
                             </div>
                         </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="px-5 py-5 m-5">
-                            <div class="fs-2 text-white lh-sm mb-4">
-                                Разделение входов<br>
-                                для маленьких пациентов
-                            </div>
-                            <div class="text-white lh-sm">
-                                Мы отслеживаем ситуацию<br>
-                                и принимаем решения<br>
-                                в режиме реального времени
-                            </div>
+                        <div class="float-end">
+                            <a href="" class="bg-style-green bg-gradient d-inline-flex w-auto m-auto align-items-center rounded-5 py-2 px-4 pe-5 ms-4 text-white my-1">
+                                <img src="./assets/img/icons/paper.svg" alt="" class="pe-2">
+                                <div>Подробно</div>
+                            </a>
                         </div>
                     </div>
                     <div class="carousel-item">
@@ -98,6 +91,31 @@
                                 и принимаем решения<br>
                                 в режиме реального времени
                             </div>
+                        </div>
+                        <div class="float-end">
+                            <a href="" class="bg-style-green bg-gradient d-inline-flex w-auto m-auto align-items-center rounded-5 py-2 px-4 pe-5 ms-4 text-white my-1">
+                                <img src="./assets/img/icons/paper.svg" alt="" class="pe-2">
+                                <div>Подробно</div>
+                            </a>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                        <div class="px-5 py-5 m-5">
+                            <div class="fs-2 text-white lh-sm mb-4">
+                                Разделение входов<br>
+                                для маленьких пациентов
+                            </div>
+                            <div class="text-white lh-sm">
+                                Мы отслеживаем ситуацию<br>
+                                и принимаем решения<br>
+                                в режиме реального времени
+                            </div>
+                        </div>
+                        <div class="float-end">
+                            <a href="" class="bg-style-green bg-gradient d-inline-flex w-auto m-auto align-items-center rounded-5 py-2 px-4 pe-5 ms-4 text-white my-1">
+                                <img src="./assets/img/icons/paper.svg" alt="" class="pe-2">
+                                <div>Подробно</div>
+                            </a>
                         </div>
                     </div>
                 </div>
